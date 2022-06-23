@@ -10,7 +10,7 @@ https://xd.adobe.com/view/cc3a6b75-6011-458e-9a8a-64c67db5818b-9969/
 
 #HOME
 
--- ComicView
+#ComicView
 
 I tried to focus on creating a ComicView that would interact with the HomeFragment. It works for now, but it is messy, and could have been better.
 The buttons are all clickable, but the actual functions do not work.
