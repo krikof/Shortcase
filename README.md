@@ -21,6 +21,8 @@ Share is missing the data, but the share dialogue works.
 
 If you long press the share button, you'll simulate a notification. It is also missing data, but it serves to prove that I know how to set up a notification.
 
+The buttons, margin, padding and so forth is a little messy, colors, they are a litte messy.
+
 #SEARCH
 
 Search turned into a simple WebView. This is because I wasn't sure how to work with this API as it wasn't the typical REST API.
