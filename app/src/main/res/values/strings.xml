@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShortcaseRC</string>
+
+    // Titles for navigation
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+
+    // Buttons
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="explanation_button">Explanation</string>
+    <string name="favorite_button">Favorite</string>
+    <string name="unfavorite_button">Unfavorite</string>
+    <string name="share_button">Share</string>
+    <string name="delete_all_button">Delete all</string>
+
+    // Titles for ComicCardView
+    <string name="details_title">Details</string>
+
+
+</resources>
